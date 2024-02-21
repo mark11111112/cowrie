@@ -180,7 +180,7 @@ auth_class = UserDB
 #  and cache 10 combinations.
 #
 #auth_class = AuthRandom
-#auth_class_parameters = 2, 5, 10
+#auth_class_parameters = 1, 2
 
 
 [backend_pool]
